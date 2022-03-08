@@ -1,3 +1,4 @@
+Cloned from https://github.com/zachgoll/express-session-authentication-starter
 ## How to use this Repo
 
 This repo has three branches:
